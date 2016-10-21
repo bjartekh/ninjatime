@@ -5,12 +5,12 @@
   "homepage": "http://www.ninjamusicology.com",
   "licenses": {
     "type": "MIT",
-    "url": "http://www.ninjamusicology.com",
+    "url": "http://www.ninjamusicology.com"
   },
   "bugs": "http://www.ninjamusicology.com",
   "repository": {
     "type": "git",
-    "url": "git@gitmesome.t"
+    "url": "https://github.com/bjartekh/ninjatime"
   },
   "dependencies": {},
   "devDependencies": {
